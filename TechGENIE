@@ -1,0 +1,22 @@
+created_by: Amita Sharma
+seed_examples:
+- answer: 'An awesome event where awesome people present great content and more awesome people listen as a good audience.
+
+    '
+  question: 'What is TechGENIE.
+
+    '
+- answer: 'To deliver a 10 minutes presentation on AI.'
+  question: 'what is the second most difficult task on planet Earth.'
+
+
+
+
+
+
+
+- answer: "To understand a 10 mins presentation on AI\
+    \ pun intended. \n"
+  question: 'What is the most difficult task on the planet Earth'
+
+task_description: 'To teach a language model about TechGENIE Red Hat Pune event'
